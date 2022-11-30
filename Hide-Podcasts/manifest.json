@@ -1,0 +1,14 @@
+{
+  "name": "Spicetify-Hide-Podcasts",
+  "description": "Spicetify extension to hide podcasts.",
+  "preview": "screenshot.png",
+  "main": "hidePodcasts.js",
+  "readme": "README.md",
+  "repository": "https://github.com/theRealPadster/spicetify-hide-podcasts/",
+  "authors": [
+    {
+      "name": "theRealPadster",
+      "url": "https://github.com/theRealPadster"
+    }
+  ]
+}
